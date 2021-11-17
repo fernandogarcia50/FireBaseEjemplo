@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522251211522",
+    "project_id": "movilesclase-2021",
+    "storage_bucket": "movilesclase-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522251211522:android:e0ff4bafcd021b4966a81b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseejemplo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522251211522-u9pn4333im5g1s1io8uggq9gnugfeqs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU1gw3UXUVygYqzF02NEdKx1WjDj2l-ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522251211522-u9pn4333im5g1s1io8uggq9gnugfeqs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
